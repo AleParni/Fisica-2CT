@@ -18,7 +18,6 @@ No necesitás cuenta para acceder — guardá esta página en favoritos.
 
 [SUB. A El misterio del hilo roto](https://aleparni.github.io/Fisica-2CT/Elmisteriodelhiloroto.html)
 
-[SUB: B La masa desaparecida](https://aleparni.github.io/Fisica-2CT/masadesaparecidav2.html)
 
 
 
