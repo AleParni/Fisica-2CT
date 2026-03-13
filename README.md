@@ -23,7 +23,7 @@ No necesitás cuenta para acceder — guardá esta página en favoritos.
 
 ### 🧪 Prácticas de laboratorio
 
-[SUB. A El misterio del hilo roto](https://aleparni.github.io/Fisica-2CT/El_misterio_del_hilo_roto.html)
+[SUB. A El misterio del hilo roto](https://aleparni.github.io/Fisica-2CT/Elmisteriodelhiloroto.html)
 
 
 
