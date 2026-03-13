@@ -13,17 +13,13 @@ No necesitás cuenta para acceder — guardá esta página en favoritos.
 
 [Introducción a las leyes de Newton#2](https://aleparni.github.io/Fisica-2CT/newtonint.html)
 
-### 🍎 Las leyes de Newton
-
-### 🔩 Aplicaciones de las leyes de Newton
-
-### 💥 Consecuencias de las leyes de Newton
-
-### ⚡ Energía
 
 ### 🧪 Prácticas de laboratorio
 
 [SUB. A El misterio del hilo roto](https://aleparni.github.io/Fisica-2CT/Elmisteriodelhiloroto.html)
+
+
+[SUB. B El misterio del hilo roto](https://aleparni.github.io/Fisica-2CT/masadesaparecidav2.html)
 
 
 
