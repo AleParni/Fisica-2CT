@@ -4,18 +4,21 @@ No necesitás cuenta para acceder — guardá esta página en favoritos.
 
 ### 🌱 Semanas introductorias
 
-[¿Cómo usar Classroom?](https://aleparni.github.io/Fisica-2CT/classroom.html)
+[¿Cómo usar Classroom?](https://aleparni.github.io/Fisica-2CTSemanaintroductoria/classroom.html)
 
-[Infrmación general, criterios de evaluación y una pregunta fértil](https://aleparni.github.io/Fisica-2CT/2cvct.html)
+[Infrmación general, criterios de evaluación y una pregunta fértil](https://aleparni.github.io/Fisica-2CTSemanaintroductoria/2cvct.html)
 
-[Introducción a las leyes de Newton#1](https://aleparni.github.io/Fisica-2CT/leyesnewtonclaude.html)
+[Introducción a las leyes de Newton#1](https://aleparni.github.io/Fisica-2CTSemanaintroductoria/leyesnewtonclaude.html)
 
-[Introducción a las leyes de Newton#2](https://aleparni.github.io/Fisica-2CT/newtonint.html)
+[Introducción a las leyes de Newton#2](https://aleparni.github.io/Fisica-2CTSemanaintroductoria/newtonint.html)
 
 
 ### 🧪 Prácticas de laboratorio
 
-[SUB. A El misterio del hilo roto](https://aleparni.github.io/Fisica-2CT/Elmisteriodelhiloroto.html)
+[SUB. A El misterio del hilo roto](https://aleparni.github.io/Fisica-2CTSemanaintroductoria/Elmisteriodelhiloroto.html)
+
+[SUB. A El misterio de la masa sumergida](https://aleparni.github.io/Fisica-2CTSemanaintroductoria/masadesaparecidav2.html)
+
 
 
 
