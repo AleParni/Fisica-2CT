@@ -8,6 +8,10 @@ No necesitás cuenta para acceder — guardá esta página en favoritos.
 
 [Infrmación general, criterios de evaluación y una pregunta fértil](https://aleparni.github.io/Fisica-2CT/2cvct.html)
 
+[Introducción a las leyes de Newton#1](https://aleparni.github.io/Fisica-2CT/leyesnewtonclaude.html)
+
+[Introducción a las leyes de Newton#2](https://aleparni.github.io/Fisica-2CT/newtonint.html)
+
 ## 📐 Unidades
 
 ### Mecánica Newtoniana.
